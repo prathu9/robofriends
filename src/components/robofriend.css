@@ -1,0 +1,60 @@
+.bg-light-blue{
+	background-color:#9EEBCF;
+}
+
+.dib{
+	display:inline-block;
+}
+
+ .ba { 
+ 	border-style: solid; 
+ 	border-width: 1px; 
+ }
+
+.br3 {        
+	border-radius: .5rem; 
+}
+
+.pa2 {        
+	padding: .5rem; 
+}
+
+.pa3 {        
+	padding: 1rem; 
+}
+
+.ma3 {        
+	margin: .5rem; 
+}
+
+.tc{
+	text-align:center;
+}
+
+.b--green { 
+	border-color: #19A974; 
+}
+
+.bg-lightest-blue{
+	background-color: #96CCFF;
+}
+
+.shadow-5 { 
+	box-shadow: 4px 4px 8px 0px rgba( 0, 0, 0, 0.5 ); 
+}
+
+.grow {
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.grow:hover,
+.grow:focus {
+  transform: scale(1.05);
+}
+
+.grow:active {
+  transform: scale(.90);
+}
